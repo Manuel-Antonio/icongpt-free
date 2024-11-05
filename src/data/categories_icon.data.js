@@ -1,0 +1,22 @@
+export const categoriesIcon = [
+  "Social Media",
+  "Navigation",
+  "Actions",
+  "Media",
+  "Technology",
+  "Commerce",
+  "Health",
+  "Finance",
+  "Education",
+  "Weather",
+  "Transportation",
+  "Security",
+  "Settings",
+  "Content",
+  "Events",
+  "Art and Entertainment",
+  "Nature",
+  "Communication",
+  "Networks",
+  "General Use"
+];
